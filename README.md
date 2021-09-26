@@ -4,13 +4,14 @@
 
 ## Описание переменных окружения
 
-POSTGRES_USER - имя пользователя постгреса
-POSTGRES_DB - название бд посгреса
-POSTGRES_PASSWORD - пароль бд
-DATABASE_HOST - хост
-
-PGADMIN_EMAIL - email для входа в постгрес админ
-PGADMIN_PASSWORD - пароль от постгрес админ
+| Переменная        | Описание                         |
+| ----------------- | -------------------------------- |
+| POSTGRES_USER     | имя пользователя постгреса       |
+| POSTGRES_DB       | название бд посгреса             |
+| POSTGRES_PASSWORD | пароль бд                        |
+| DATABASE_HOST     | DATABASE_HOST                    |
+| PGADMIN_EMAIL     | email для входа в постгрес админ |
+| PGADMIN_PASSWORD  | пароль от постгрес админ         |
 
 ## Запуск проекта
 
